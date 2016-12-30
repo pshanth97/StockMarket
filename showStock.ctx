@@ -1,4 +1,0 @@
-#BlueJ class context
-comment0.params=p1\ stocks
-comment0.target=java.lang.String\ getOwned(Person,\ Stock[])
-numComments=1
