@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StockManager()
+comment1.params=symbol
+comment1.target=Stock\ getStock(java.lang.String)
+comment2.params=
+comment2.target=Stock[]\ getStocks()
+numComments=3
