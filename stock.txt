@@ -1,9 +1,0 @@
-50.0 shares of BAC
-20.0 shares of CHK
-1.0 shares of TASTY
-
-You have bought 50 shares of BAC and your balance is £4392.5
-You have bought 20 shares of CHK and your balance is £4320.5
-You have bought 1 shares of TASTY and your balance is £4166.0
-
-4166.0
